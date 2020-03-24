@@ -49,7 +49,7 @@ void draw()
 				}
 				cout<<endl;
 		}
-		cout<<endl<<"SCORE="<<score<<endl;
+		cout<<endl<<"SCORE of the PLAYER is ="<<score<<endl;
 }
 void input()
 {
