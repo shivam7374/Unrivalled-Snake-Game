@@ -60,15 +60,19 @@ void input()
 		case '8':
 		x--;
 		break;
+
 		case '2':
 		x++;
 		break;
+		
 		case '6':
 		y++;
 		break;
+		
 		case '4':
 		y--;
 		break;
+		
 		case '5':
 		gameover=1;
 		break;
