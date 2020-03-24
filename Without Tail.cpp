@@ -13,7 +13,7 @@ int nTail;
 
 void draw()
 {	system("cls");
-	cout<<"press any 5 to exit "<<endl;
+	cout<<"press 5 to exit "<<endl;
 	for(int i=0;i<width;i++)
 		{
 			for(int j=0;j<heigth;j++)
