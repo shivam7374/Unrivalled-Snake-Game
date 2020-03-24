@@ -34,14 +34,14 @@ void draw()
 					else
 					{
 						bool print = false;
-                for (int k = 0; k < nTail; k++)
-                {
+                	for (int k = 0; k < nTail; k++)
+                		{
                     if (tailX[k] == i && tailY[k] == j)
                     {
                         cout << "x";
                         print = true;
                     }
-                }
+                		}
                 if (!print)
                     cout << " ";
 					}
