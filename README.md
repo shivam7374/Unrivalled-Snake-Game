@@ -2,9 +2,10 @@
 The most popular game of old times that is the SNAKE GAME is back and in this game the user can eat the fruits and score well.
 
 -------------------------------------------------------------------------------------------------------------
-![TTT 1](https://user-images.githubusercontent.com/55014891/80245082-ad095b80-8687-11ea-969f-388f3e02def3.png)
+
+![TTT 1](https://user-images.githubusercontent.com/55014891/80245556-8e579480-8688-11ea-9280-c98b044c6c28.png)
 -------------------------------------------------------------------------------------------------------------
-![TTT 2](https://user-images.githubusercontent.com/55014891/80245097-b266a600-8687-11ea-9d68-20dcbc2d3019.png)
+![TTT 2](https://user-images.githubusercontent.com/55014891/80245565-91eb1b80-8688-11ea-922c-4e7b6c1ce017.png)
 -------------------------------------------------------------------------------------------------------------
-![TTT 3](https://user-images.githubusercontent.com/55014891/80245119-bb577780-8687-11ea-93ae-49be062462fa.png)
+![TTT 3](https://user-images.githubusercontent.com/55014891/80245566-9283b200-8688-11ea-8424-62e8528148c2.png)
 -------------------------------------------------------------------------------------------------------------
